@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+data/exports/*
+!data/exports/plantilla_preguntas.csv
+!data/exports/plantilla_preguntas_oficiales.csv
+data/app.log
+.DS_Store
+*.db
